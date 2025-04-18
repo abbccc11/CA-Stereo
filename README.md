@@ -3,8 +3,8 @@ A context-aware cascaded network for stereo  matching of high-resolution satelli
 
 ## File Description
 
-- The `US3D/` directory contains the code related to the **US3D** dataset.
-- The `WHU-Stereo/` directory contains the code related to the **WHU-Stereo** dataset.
+- The `US3D/CA-Stereo` directory contains the code related to the **US3D** dataset.
+- The `WHU-Stereo/CA-Stereo` directory contains the code related to the **WHU-Stereo** dataset.
 - `val.py` is used for testing the model's performance. You can run this file to evaluate the model's effectiveness.
 
 Please ensure that the environment is properly set up and all necessary dependencies are installed before using the code.
@@ -13,4 +13,4 @@ Please ensure that the environment is properly set up and all necessary dependen
 
 The pre-trained model weights are available for download at the following link:
 
-[Download Model Weights](&lt;insert-download-link-here&gt;)
+[Download Model Weights](https://pan.baidu.com/s/122m4vWn5UXVyhpk61MhwkQ?pwd=v3ny)
